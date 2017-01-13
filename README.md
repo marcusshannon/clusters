@@ -1,2 +1,2 @@
-# clusters
-Clustering algorithm to clusters images based on their values
+# Clusters
+Clustering algorithm that clusters images based on their values
